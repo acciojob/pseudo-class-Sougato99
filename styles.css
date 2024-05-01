@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 p::before{
 	font-size:20px;
-	color:#f00;
+	color:rgb(255,0,0);
 	content:"Before Element";
 }
 p::after{
 	font-size:20px;
-	color:#f00;
+	color:rgb(255,0,0);
 	content:"After Element"
 }
 #container{
